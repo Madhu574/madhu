@@ -1,0 +1,260 @@
+{
+  "posts": [
+    {
+      "firstname": "prakhyath ",
+      "lastname": "gujje",
+      "dob": "1998-02-22",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "profile": "MicrosoftTeams-image (4).png",
+      "id": 1
+    },
+    {
+      "education": "10th pass",
+      "id": 2
+    },
+    {
+      "firstname": "prakhyath",
+      "lastname": "gujje",
+      "dob": "",
+      "gender": "",
+      "company": "SOFT PATH",
+      "jobExperience": 2,
+      "profile": "junnu.jpg",
+      "id": 3
+    },
+    {
+      "firstname": "prakhyath",
+      "lastname": "gujje",
+      "dob": "0487-06-07",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 22,
+      "id": 4
+    },
+    {
+      "firstname": "madhu",
+      "lastname": "nani",
+      "dob": "",
+      "gender": "",
+      "company": "softpatyh",
+      "jobExperience": "",
+      "id": 5
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "jobExperience": "",
+      "id": 6
+    },
+    {
+      "firstname": "prakhyath",
+      "lastname": "gujje",
+      "dob": "",
+      "gender": "",
+      "company": "SOFT PATH",
+      "jobExperience": "",
+      "id": 7
+    },
+    {
+      "firstname": "herwin",
+      "lastname": "jushwin",
+      "dob": "11111-11-11",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "softpath",
+      "jobExperience": 1,
+      "profile": "junnu.jpg",
+      "id": 8
+    },
+    {
+      "firstname": "herwin",
+      "lastname": "jushwin",
+      "dob": "",
+      "gender": "",
+      "company": "softpath",
+      "jobExperience": "",
+      "profile": "junnu.jpg",
+      "id": 9
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "jobExperience": "",
+      "id": 10
+    },
+    {
+      "firstname": "prakhyath",
+      "lastname": "gujje",
+      "dob": "1998-11-01",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "profile": "download.png",
+      "id": 11
+    },
+    {
+      "firstname": "SandeepRaj",
+      "lastname": "Gatla",
+      "dob": "1999-09-09",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "profile": "MicrosoftTeams-image (4).png",
+      "id": 12
+    },
+    {
+      "firstname": "Madhu",
+      "lastname": "Varre",
+      "dob": "1998-06-05",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "profile": "IMG_20221117_175911.jpg",
+      "id": 13
+    },
+    {
+      "firstname": "prakhyath",
+      "lastname": "Varre",
+      "dob": "1998-12-02",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "profile": "download.png",
+      "id": 14
+    },
+    {
+      "firstname": "SandeepRaj",
+      "lastname": "Gatla",
+      "dob": "1999-09-09",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "profile": "MicrosoftTeams-image (4).png",
+      "id": 15
+    },
+    {
+      "firstname": "Madhu",
+      "lastname": "Varre",
+      "dob": "1998-06-05",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "profile": "IMG_20221117_175911.jpg",
+      "id": 16
+    },
+    {
+      "firstname": "Anjali",
+      "lastname": "yerra",
+      "dob": "",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "profile": "anjali.jpg",
+      "id": 17
+    },
+    {
+      "firstname": "Priyanka",
+      "lastname": "D",
+      "dob": "2000-01-05",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "profile": "pinky.jpg",
+      "id": 18
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "jobExperience": "",
+      "id": 19
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "jobExperience": "",
+      "id": 20
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "jobExperience": "",
+      "id": 21
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "jobExperience": "",
+      "id": 22
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "jobExperience": "",
+      "id": 23
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "jobExperience": "",
+      "id": 24
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "jobExperience": "",
+      "id": 25
+    },
+    {
+      "firstname": "madhu",
+      "lastname": "nani",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "jobExperience": "",
+      "id": 26
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
